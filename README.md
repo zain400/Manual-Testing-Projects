@@ -107,9 +107,7 @@ Step-by-Step Execution:
 
 Follow the steps outlined in each test case. Record results as Pass/Fail and provide any necessary comments.
 
-Document Findings: 
 
-If a test fails, include detailed steps for reproduction, actual vs. expected outcomes, screenshots, or screen recordings if applicable.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Test Reporting
