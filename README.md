@@ -1,4 +1,4 @@
-# Manual-Testing-Projects
+Testing-Projects
 
 project Name : Live video Commerce
 Test plan i have created the testplan for the project 
