@@ -79,11 +79,17 @@ Test Case Documentation
 All test cases are stored in the /manual-test-cases folder and organized based on the features. The test cases follow a clear structure with:
 
 Test Case ID
+
 Test Title
+
 Preconditions
+
 Test Steps
+
 Expected Result
+
 Actual Result
+
 Status (Pass/Fail)
 
 
