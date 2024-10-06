@@ -1,0 +1,16 @@
+test id,Test case name
+SM-793, verify Start Screen Sharing Successfully
+SM-794,verify Stop Screen Sharing Successfully
+SM-795,verify Audio and Video Work Simultaneously with Screen Sharing
+SM-796,verify Remote User View the Shared Screen
+SM-797,verify Full-Screen Mode During Screen Sharing
+SM-800, verify Screen Sharing With Different Browsers/Devices
+SM-801,verify Attempt Screen Sharing Without Permissions
+SM-802, verify Multiple Users Trying to Share Screens Simultaneously
+SM-803, verify Network Interruption During Screen Sharing
+SM-804,verify Share Screen and End Call Unexpectedly
+SM-805,verify Unsupported Browser for Screen Sharing
+SM-809,Verify that screen sharing stops when the call ends.
+SM-808,Verify behavior when the internet connection is slow during screen sharing.
+SM-807,Verify how participants see the shared screen.
+SM-806, Verify that the user can select from multiple screens or windows to share.
