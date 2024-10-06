@@ -15,9 +15,14 @@ This repository is dedicated to manual testing of the Live Video Commerce platfo
 Table of Contents
 
 Project Overview
+
 Features to Test
+
 Test Environment
+
 Test Case Documentation
+
 Test Execution Guidelines
+
 Reporting 
 
