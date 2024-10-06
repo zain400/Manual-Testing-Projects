@@ -1,0 +1,19 @@
+Issue Key,Test case name,Description,Test Step,Test Result,Test Data
+SM-223,verify that if all retailer clerks are busy with customers than the new waiting customer should see a message,,<p>1. select the app from phone menu</p><p>2. login with clerk credentials </p><p>3. clerk should be call session for customer</p><p>4  during this time new customer call </p><p><br/></p>,<p>customers should see message &quot; all clerk are busy&quot;</p>,
+SM-222,verify that if first retailer clerk is busy with other call than the customer call should route to second available clerk,routing is working  but khazanay 2 after the  call crash,<p>1. select the app from phone menu </p><p>2. login with clerk credentials </p><p>3. clerk should be call session for customer </p><p>4 clerk can be busy </p><p>5 the call go to other available clerk</p>,call should should route to next available clerk,
+SM-221,verify that if retailer clerk keeps the app in background or lock the phone they should receive the call from customer,,"1. select the app from phone menu
+2. login with clerk credentials
+3. Mark their status to available
+4. Lock the phone",clerk should receive the call,
+SM-220,verify that if retailer clerk mark their status from unavailable to available than they should receive the call from customer,,"1. select the app from phone menu
+2. login with clerk credentials
+3. Mark their status to available",clerk should receive the call,
+SM-219,verify that if retailer clerk mark their status unavailable than should not receive the calls from customer,,"1. select the app from phone menu
+2. login with clerk credentials
+3. Mark their status to unavailable",clerk should not receive the call,
+SM-218,verify that once customer initiate the call first available retailer clerk should receive the call,,"1. select the app from phone menu
+2. login with clerk credentials
+3. Mark their status to available",first logged in clerk should receive the call,
+SM-205,verify that once customer initiate the call first available retailer clerk should receive the call,,"1. select the app from phone menu
+2. login with clerk credentials
+3. Mark their status to available",first logged in clerk should receive the call,
