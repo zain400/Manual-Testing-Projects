@@ -1,6 +1,7 @@
 Testing-Projects
 
-project Name : Live video Commerce fffffffffffffffffffffffffff
+project Name : Live video Commerce 
+
 Test plan i have created the testplan for the project |
 test cases design |
 test execution|
