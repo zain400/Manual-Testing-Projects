@@ -67,11 +67,15 @@ Mobile Devices:
 
 Android (11,12 version)
 
+Network Condition
 
-Network Conditions:
-3g networks
-4G networks
-Low-speed internet (4g) for testing 
+High-speed internet(wifi)
+
+4g and 3g network
+
+low speed internet
+
+
 ----------------------------------------------------------------------------------
 Test Case Documentation
 
