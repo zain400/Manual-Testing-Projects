@@ -55,6 +55,7 @@ Devices: Test on desktop, mobile, and tablets across
 Test Environment
 
 The Live Video Commerce platform needs to be tested in the following environments:
+SIT Enviornment used
 
 Browsers:
 
@@ -94,5 +95,5 @@ Expected Result
 Actual Result
 
 Status (Pass/Fail)
-
+-----------------------------------------------------------------------------------------------
 
