@@ -1,0 +1,15 @@
+test_id ,Test case name
+SM-464,Verify that a user can login with valid credentials
+SM-466,verify the user can not log in with an incorrect password
+SM-469,Verify the behavior when the username field is at minimum and maximum allowed length 
+SM-472,"Verify that the ""Remember Me"" checkbox work correctly"
+SM-473,Verify that a user cannot  log in with empty username and password fields
+SM-474,Verify that a logged in user can sucessfully log out 
+SM-539,Redirect to Login Page After Logout
+SM-540,Session Termination After Logout
+SM-541,Logout from Multiple Tabs
+SM-739,verify Valid Email Address
+SM-740,Verify Ensure the email field does not accept an invalid email format.
+SM-741,verify Ensure the password is masked when typed into the password field.
+SM-742,"Verify Ensure that the ""Login"" button remains disabled until both email and password fields are filled."
+SM-743,verify Ensure the password field is case-sensitive.
