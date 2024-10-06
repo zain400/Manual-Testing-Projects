@@ -92,8 +92,50 @@ Test Steps
 
 Expected Result
 
-Actual Result
+Actual Result 
 
-Status (Pass/Fail)
+status (pass/fail) testcases
+
 -----------------------------------------------------------------------------------------------
 
+Test Execution Guidelines
+
+Test Rounds:
+
+Perform tests in multiple rounds, including normal network conditions, low bandwidth situations, and on different device/browser combinations.
+Step-by-Step Execution:
+
+Follow the steps outlined in each test case. Record results as Pass/Fail and provide any necessary comments.
+
+Document Findings: 
+
+If a test fails, include detailed steps for reproduction, actual vs. expected outcomes, screenshots, or screen recordings if applicable.
+
+Test Reporting
+
+After completing a test round, compile a test report with:
+
+Test Summary
+
+Pass/Fail Statistics
+
+Bugs Identified
+
+Screenshots/Recordings
+
+Bug Tracking Link (if using a bug tracking tool like Jira)
+
+
+Reporting Issues
+
+If you encounter any bugs during testing, please report them with the following information:
+
+Bug Title
+
+Steps to Reproduce
+
+Expected vs Actual Results
+
+Screenshots/Recordings (if available)
+
+Browser/Device Information
