@@ -69,8 +69,7 @@ Android (11,12 version)
 
 
 Network Conditions:
-
-High-speed internet (Wi-Fi)
+3g networks
 4G networks
 Low-speed internet (4g) for testing 
 ----------------------------------------------------------------------------------
