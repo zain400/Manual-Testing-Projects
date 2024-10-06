@@ -12,17 +12,17 @@ Project Overview :
 This repository is dedicated to manual testing of the Live Video Commerce platform. The platform allows users to interact with products and sellers via live video calls, enabling real-time product demonstrations, interactions, and purchases. The purpose of this repository is to provide structured test cases and guidelines to ensure high-quality user experience on the platform.
 
 
-Table of Contents
+: Table of Contents
 
-Project Overview
+. Project Overview
 
-Features to Test
+. Features to Test
 
-Test Environment
+. Test Environment
 
-Test Case Documentation
+. Test Case Documentation
 
-Test Execution Guidelines
+. Test Execution Guidelines
 
 Reporting 
 
