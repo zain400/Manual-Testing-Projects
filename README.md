@@ -110,6 +110,7 @@ Follow the steps outlined in each test case. Record results as Pass/Fail and pro
 Document Findings: 
 
 If a test fails, include detailed steps for reproduction, actual vs. expected outcomes, screenshots, or screen recordings if applicable.
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 Test Reporting
 
@@ -126,10 +127,8 @@ Screenshots/Recordings
 Bug Tracking Link (if using a bug tracking tool like Jira)
 
 
-Reporting Issues
 
-If you encounter any bugs during testing, please report them with the following information:
-
+---------------------------------------------------------------------------------------------------------------
 Bug Title
 
 Steps to Reproduce
