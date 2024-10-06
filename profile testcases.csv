@@ -1,0 +1,8 @@
+test_id,Test case name,,,,,,,,,,,,,,,,,
+SM-779,Verify reset functionality,,,,,,,,,,,,,,,,,
+SM-778,Check base price field validation,,,,,,,,,,,,,,,,,
+SM-777,Verify successful profile update,,,,,,,,,,,,,,,,,
+SM-776,Verify password match validation,,,,,,,,,,,,,,,,,
+SM-775,Verify email format validation,,,,,,,,,,,,,,,,,
+SM-774,Check mandatory fields validation,,,,,,,,,,,,,,,,,
+SM-773,Verify the visibility of all fields,,,,,,,,,,,,,,,,,
