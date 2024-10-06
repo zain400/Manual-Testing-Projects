@@ -24,16 +24,14 @@ This repository is dedicated to manual testing of the Live Video Commerce platfo
 
 . Test Execution Guidelines
 
-Reporting 
+ . Reporting 
 
-
+-----------------------------------------------------------------------------------------------------
 Features to Test
 The following core features of the Live Video Commerce platform are included in the manual testing:
 
 
-Video Calls: 
-
-Test the ability to initiate, accept, and interact during video calls.
+Video Calls: Test the ability to initiate, accept, and interact during video calls.
 
 Screen Sharing: Validate the screen sharing functionality between customers and sellers.
 
