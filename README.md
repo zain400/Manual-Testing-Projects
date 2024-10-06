@@ -73,3 +73,17 @@ Network Conditions:
 High-speed internet (Wi-Fi)
 4G networks
 Low-speed internet (4g) for testing 
+----------------------------------------------------------------------------------
+Test Case Documentation
+
+All test cases are stored in the /manual-test-cases folder and organized based on the features. The test cases follow a clear structure with:
+
+Test Case ID
+Test Title
+Preconditions
+Test Steps
+Expected Result
+Actual Result
+Status (Pass/Fail)
+
+
