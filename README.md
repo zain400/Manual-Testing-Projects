@@ -31,6 +31,7 @@ Features to Test
 The following core features of the Live Video Commerce platform are included in the manual testing:
 
 
+
 Video Calls: Test the ability to initiate, accept, and interact during video calls.
 
 Screen Sharing: Validate the screen sharing functionality between customers and sellers.
@@ -39,3 +40,36 @@ Audio/Video Quality: Test different network conditions for audio and video perfo
 
 Product Interactions: Validate product links, demos, and purchase functionalities during live calls.
 
+------------------------------------------------------------------------------------------------------------------
+
+Prerequisites
+
+Before starting manual testing, ensure that the following tools and environment setups are in place:
+
+Browsers: Chrome, Firefox, Safari, and other supported browsers.
+Devices: Test on desktop, mobile, and tablets across 
+
+
+-------------------------------------------------------------------
+
+Test Environment
+
+The Live Video Commerce platform needs to be tested in the following environments:
+
+Browsers:
+
+Chrome 
+Firefox 
+Safari 
+Edge 
+
+Mobile Devices:
+
+Android (11,12 version)
+
+
+Network Conditions:
+
+High-speed internet (Wi-Fi)
+4G networks
+Low-speed internet (4g) for testing 
