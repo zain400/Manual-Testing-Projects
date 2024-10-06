@@ -133,6 +133,6 @@ Steps to Reproduce
 
 Expected vs Actual Results
 
-Screenshots/Recordings (if available)
+Screenshots/Recordings 
 
 Browser/Device Information
